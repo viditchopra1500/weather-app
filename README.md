@@ -1,2 +1,2 @@
-# weathe-app
-A small weather app which uses api requests to fetch data.
+# weather-app
+A small command line weather app which uses API calls to fetch weather details.
