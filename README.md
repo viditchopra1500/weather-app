@@ -4,7 +4,7 @@ I have used axios to make the API calls.
 
 To run ,simply clone the repo and run npm install in the cloned folder.
 
-eg-
+EXAMPLES-
 ```
 $ node app.js -a="gomti nagar lucknow"
 Gomti Nagar, Lucknow, UP, India
