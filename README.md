@@ -13,4 +13,10 @@ It's currently 26.39. It feels like 32.80
 $ node app.js -a="paris france"
 Paris, Île-de-France, France
 It's currently 9.00. It feels like 15.20
+
+$ node app.js -h
+Options:
+  --version      Show version number                                  [boolean]
+  -a, --address  Address to fetch weather for               [string] [required]
+  --help, -h     Show help                                            [boolean]
 ```
