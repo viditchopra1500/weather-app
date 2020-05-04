@@ -10,9 +10,11 @@ $ node app.js -a="gomti nagar lucknow"
 Gomti Nagar, Lucknow, UP, India
 It's currently 26.39. It feels like 32.80
 
+
 $ node app.js -a="paris france"
 Paris, Île-de-France, France
 It's currently 9.00. It feels like 15.20
+
 
 $ node app.js -h
 Options:
